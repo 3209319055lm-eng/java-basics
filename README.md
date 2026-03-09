@@ -1,13 +1,17 @@
-# Java Student Project
+# Java 学习记录 - Day1
 
-这是一个简单的 Java 学生类示例项目。
+## 学习内容
+- 变量（Variables）
+- 基本数据类型（Data Types）
+- println / printf 输出
+- for 循环
+- 嵌套循环
 
-## 功能
-- 定义 Student 类
-- 包含 name 和 age 属性
-- show() 方法打印学生信息
+## 完成练习
+1. DataType - 练习 Java 基本数据类型
+2. SwapNumbers - 实现两个数字交换
+3. CircleArea - 计算圆的面积
+4. StarTriangle - 使用循环打印星号三角形
 
-## 使用方法
-1. 克隆仓库
-2. 在 IDEA 中打开项目
-3. 运行 Main.java                  
+📅 Day1：Java 基础入门
+
