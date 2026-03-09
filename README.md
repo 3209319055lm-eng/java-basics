@@ -7,7 +7,7 @@
 - for 循环
 - 嵌套循环
 
-## 完成练习
+## 完成练习 
 1. DataType - 练习 Java 基本数据类型
 2. SwapNumbers - 实现两个数字交换
 3. CircleArea - 计算圆的面积
