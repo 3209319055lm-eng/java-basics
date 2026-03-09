@@ -1,11 +1,11 @@
-# Java 学习记录
+# Java Learning Log
 
-## Week 1 - Java 基础
+## Week 1 - Java Basics
 
-Day1 - Java 基础入门  
-Day2 - 条件判断（if / else）  
-Day3 - 循环基础（for / while）  
-Day4 - 循环算法练习  
-Day5 - 数组基础（Array）  
-Day6 - 数组进阶与排序  
-Day7 - 小项目练习
+Day1 - Java Basics  
+Day2 - Conditional Statements  
+Day3 - Loops  
+Day4 - Loop Algorithms  
+Day5 - Arrays  
+Day6 - Sorting and Searching  
+Day7 - Mini Projects
