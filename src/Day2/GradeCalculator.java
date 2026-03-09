@@ -7,8 +7,8 @@ public class GradeCalculator {
         Scanner src=new Scanner(System.in);
         System.out.print("你的成绩是:");
         float score=src.nextFloat();
-        int a=(int)(score/10);
-        switch(a){
+        int t=(int)(score/10);
+        switch(t){
             case 10:
             case 9:
                 System.out.print("A");

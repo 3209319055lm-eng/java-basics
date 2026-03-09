@@ -9,8 +9,8 @@ public class LeapYearChecker {
         System.out.print("输入年份:");
         year=src.nextInt();
         if(year%400==0||(year%4==0&&year%100!=0))
-            System.out.println("这是闰年");
+            System.out.println("这是 闰年");
         else
-            System.out.println("这是平年");
+            System.out.println("这是 平年");
     }
 }

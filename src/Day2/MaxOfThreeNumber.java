@@ -9,14 +9,14 @@ public class MaxOfThreeNumber {
         float a=src.nextFloat();
         float b=src.nextFloat();
         float c=src.nextFloat();
-        if(a<b)
+        if(b>a)
         {
             float t;
             t=a;
             a=b;
             b=t;
         }
-        if(a<c)
+        if(c>a)
         {
             float t;
             t=a;
