@@ -5,7 +5,7 @@
 - 基本数据类型（Data Types）
 - println / printf 输出
 - for 循环
-- 嵌套循环
+- 嵌套循环 
 
 ## 完成练习   
 1. DataType - 练习 Java 基本数据类型        
