@@ -13,5 +13,5 @@
 3. CircleArea - 计算圆的面积     
 4. StarTriangle - 使用循环打印星号三角形  
 
-📅 Day1：Java 基础入门 
+📅 Day1：Java 基础入门            
 
