@@ -1,17 +1,11 @@
-# Java 学习记录 - day1
+# Java 学习记录
 
-## 学习内容
-- 变量（Variables）
-- 基本数据类型（Data Types）
-- println / printf 输出
-- for 循环
-- 嵌套循环 
+## Week 1 - Java 基础
 
-## 完成练习   
-1. DataType - 练习 Java 基本数据类型        
-2. SwapNumbers - 实现两个数字交换   
-3. CircleArea - 计算圆的面积     
-4. StarTriangle - 使用循环打印星号三角形  
-
-📅 Day1：Java 基础入门                                     
-
+Day1 - Java 基础入门  
+Day2 - 条件判断（if / else）  
+Day3 - 循环基础（for / while）  
+Day4 - 循环算法练习  
+Day5 - 数组基础（Array）  
+Day6 - 数组进阶与排序  
+Day7 - 小项目练习
