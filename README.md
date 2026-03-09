@@ -1,4 +1,4 @@
-# Java 学习记录 - Day1
+# Java 学习记录 - day1
 
 ## 学习内容
 - 变量（Variables）
