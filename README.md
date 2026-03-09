@@ -11,7 +11,7 @@
 1. DataType - 练习 Java 基本数据类型
 2. SwapNumbers - 实现两个数字交换
 3. CircleArea - 计算圆的面积
-4. StarTriangle - 使用循环打印星号三角形
+4. StarTriangle - 使用循环打印星号三角形  
 
 📅 Day1：Java 基础入门 
 
