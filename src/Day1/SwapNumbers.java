@@ -7,9 +7,9 @@ public class SwapNumbers {
         int a=src.nextInt();
         System.out.print("b=");
         int b=src.nextInt();
-        int t;
-        t=a;
+        int c;
+        c=a;
         a=b;
-        b=t;
+        b=c;
         System.out.printf("a=%d b=%d",a,b);}
 }
